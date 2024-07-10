@@ -2,8 +2,8 @@ version: '3.8'
 
 ## Para pegar as credenciais acesse e crie um cadastro em https://expo.dev
 x-common-variables: &common-variables
-  API_BASE_URL: http://192.168.100.142
-  EXPO_QR_GEN: 192.168.100.142
+  API_BASE_URL: http://18.222.213.75
+  EXPO_QR_GEN: http://18.222.213.75
   EXPO_USERNAME:  ## ADICIONE SEU USERNAME DO EXPO
   EXPO_PASSWORD:  ## ADICIONE SUA SENHA DO EXPO
 
